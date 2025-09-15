@@ -1,2 +1,2 @@
 # Team__Unknown
-Smart Parking System is a mobile app built with Expo (React Native) to help users find and reserve parking spots in real time. It offers live availability, navigation, and QR-based check-in/out to reduce traffic and save time, making urban parking smarter and more efficient.
+In hospitals, general checkups (like measuring blood pressure, body weight, sugar level, heart rate, etc.) are done manually. This process is time-consuming and depends on staff availability. An AI-based system can automate checkups, collect patient data, and predict potential health risks early.

@@ -1,12 +1,7 @@
 import Groq from "groq-sdk";
 
 const groq = new Groq({
-<<<<<<< HEAD
-    apiKey:process.env.GROQ_API_KEY
-    ,
-=======
     apiKey: "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",
->>>>>>> 8ab2972 (medical nutrient tracker)
 });
 
 export const analyzeFood = async (req, res) => {

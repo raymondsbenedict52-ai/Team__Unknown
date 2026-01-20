@@ -1,7 +1,7 @@
 import Groq from "groq-sdk";
 
 const groq = new Groq({
-    apiKey: "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",
+    apiKey:process.env.GROQ_API_KEY,
 });
 
 export const analyzeFood = async (req, res) => {

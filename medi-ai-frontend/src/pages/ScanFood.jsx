@@ -85,6 +85,7 @@ export default function ScanFood() {
             if (!res.ok) throw new Error("Failed to log meal");
 
             console.log("✅ Meal logged:", foodName);
+            alert("Successfully logged meal");
             //navigate("/daily");
         } catch (err) {
             console.error("Log meal error:", err);
